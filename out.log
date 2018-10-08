@@ -4724,3 +4724,17 @@ java.lang.NullPointerException
 2018-10-08 10:48:38 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
 2018-10-08 10:48:38 INFO  ApacheHttpClient.testConnection(198) - result = true
 2018-10-08 10:48:38 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-10-08 10:48:54 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-08 10:48:54 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-08 10:49:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:50:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:50:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -3 < 0
+2018-10-08 10:51:05 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -11 < 0
+2018-10-08 10:51:20 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -9 < 0
+2018-10-08 10:51:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -10 < -1
+2018-10-08 10:51:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:52:06 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -9 < -7
+2018-10-08 10:52:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:53:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:54:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:55:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
