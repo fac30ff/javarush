@@ -1,0 +1,23 @@
+package com.javarush.task.task04.task0421;
+
+/* 
+Настя или Настя?
+*/
+
+import java.io.*;
+
+public class Solution {
+    public static void main(String[] args) throws Exception {
+        BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));
+        String name1 = rd.readLine();
+        String name2 = rd.readLine();
+        
+        if (!name1.equals(name2)) {
+            if (name1.length() == name2.length()) {
+                System.out.println("Длины имен равны");
+            }
+        } else {
+            System.out.println("Имена идентичны");
+        }
+    }
+}
