@@ -4738,3 +4738,122 @@ java.lang.NullPointerException
 2018-10-08 10:53:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
 2018-10-08 10:54:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
 2018-10-08 10:55:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:56:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:57:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:58:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 10:59:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:00:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:01:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:02:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:03:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:04:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:05:35 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:05:42 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-10-08 11:05:42 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-10-08 11:06:11 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-10-08 11:06:11 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.21 ----------
+
+2018-10-08 11:06:11 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-10-08 11:06:11 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-10-08 11:06:11 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-08 11:06:11 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-08 11:06:12 INFO  ApacheHttpClient.login(228) - Ожидание ответа сервера.
+2018-10-08 11:06:12 INFO  ApacheHttpClient.login(232) - responseCode = 200
+2018-10-08 11:06:12 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2018-10-08 11:06:12 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2018-10-08 11:06:12 INFO  ApacheHttpClient.refreshUserInfo(297) - Информация о пользователе получена.
+2018-10-08 11:06:12 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-10-08 11:06:12 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-10-08 11:06:13 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-08 11:06:13 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-08 11:06:14 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-08 11:06:14 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-08 11:06:14 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-10-08 11:06:24 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-08 11:06:24 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-08 11:06:24 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -11 < 0
+2018-10-08 11:07:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:08:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:09:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:10:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:11:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:12:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:13:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:14:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:15:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:16:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:17:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:18:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:19:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:20:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:21:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:22:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:23:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:24:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:25:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:26:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:27:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:28:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:29:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:30:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-10-08 11:31:42 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 504
+2018-10-08 11:32:42 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 504
+2018-10-08 11:33:42 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 504
+2018-10-08 11:34:42 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 504
+2018-10-08 11:35:42 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 504
+2018-10-08 11:36:42 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 504
+2018-10-08 11:37:42 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 504
+2018-10-08 11:37:43 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-10-08 11:38:13 INFO  ApacheHttpClient.getTask(422) - responseCode = 504
+2018-10-08 11:38:13 ERROR ApacheHttpClient.getTask(427) - Ошибка во время выгрузки задачи. Убедитесь в доступности сети и попробуйте снова. : com.fasterxml.jackson.core.JsonParseException
+2018-10-08 11:38:42 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 504
+2018-10-08 14:34:30 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -31 < 0
+2018-10-08 14:34:42 ERROR PluginManager.error(115) - TypeError: null is not an object (evaluating 'document.body.scrollTop')
+netscape.javascript.JSException: TypeError: null is not an object (evaluating 'document.body.scrollTop')
+	at com.sun.webkit.dom.JSObject.fwkMakeException(JSObject.java:137)
+	at com.sun.webkit.WebPage.twkExecuteScript(Native Method)
+	at com.sun.webkit.WebPage.executeScript(WebPage.java:1482)
+	at javafx.scene.web.WebEngine.executeScript(WebEngine.java:1003)
+	at org.intellij.plugins.markdown.ui.preview.javafx.MarkdownJavaFxHtmlPanel.lambda$scrollToMarkdownSrcOffset$4(MarkdownJavaFxHtmlPanel.java:158)
+	at com.sun.javafx.application.PlatformImpl.lambda$null$5(PlatformImpl.java:295)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$6(PlatformImpl.java:294)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$null$3(WinApplication.java:191)
+	at java.lang.Thread.run(Thread.java:745)
+2018-10-08 14:34:42 ERROR PluginManager.logErrorHeader(120) - IntelliJ IDEA 2018.2.4  Build #IU-182.4505.22
+2018-10-08 14:34:42 ERROR PluginManager.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-10-08 14:34:42 ERROR PluginManager.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-10-08 14:34:42 ERROR PluginManager.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-10-08 14:34:42 ERROR PluginManager.logErrorHeader(129) - OS: Windows 8.1
+2018-10-08 14:34:57 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -28 < 0
+2018-10-08 14:35:16 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -21 < 0
+2018-10-08 14:37:52 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -11 < -8
+2018-10-08 22:37:33 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -10 < 0
+2018-10-11 18:05:37 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-10-11 18:05:37 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.21 ----------
+
+2018-10-11 18:05:37 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-10-11 18:05:37 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-10-11 18:05:37 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-11 18:05:37 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-11 18:05:38 INFO  ApacheHttpClient.login(228) - Ожидание ответа сервера.
+2018-10-11 18:05:38 INFO  ApacheHttpClient.login(232) - responseCode = 200
+2018-10-11 18:05:38 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2018-10-11 18:05:38 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2018-10-11 18:05:38 INFO  ApacheHttpClient.refreshUserInfo(297) - Информация о пользователе получена.
+2018-10-11 18:05:38 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-10-11 18:05:38 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-10-11 18:05:39 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-11 18:05:39 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-11 18:05:39 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-11 18:05:39 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-11 18:05:41 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-10-11 18:05:42 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-10-11 18:05:42 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-10-11 18:06:12 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -12 < 0
+2018-10-11 18:06:35 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -26 < -8
+2018-10-11 18:06:38 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
